@@ -6,9 +6,6 @@
 
 <br/>
 <br/>
-<a target="_blank">
-  <img align="right" height="400" width="263" alt="me" src="https://blush.design/api/download?shareUri=RK0yDOcy2SsKeQe_&c=Skin_0%7Ed08b5b&w=800&h=800&fm=png">
-</a>
 
 - 🎓 I’m currently a Ph.D. student in Electrical Engineering in the area of **Electrical Mobility**
 - ⚡ I have a bachelor’s and a Master of Science degree in **Electrical Engineering**
